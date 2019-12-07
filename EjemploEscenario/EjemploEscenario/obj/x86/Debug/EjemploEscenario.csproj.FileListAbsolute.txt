@@ -1,0 +1,25 @@
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\EjemploEscenario.exe
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\EjemploEscenario.pdb
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.Form1.resources
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.Properties.Resources.resources
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.csproj.GenerateResource.Cache
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.exe
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.pdb
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\Mapa1.txt
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\Escenario1.png
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\Escenario2.jpg
+E:\c++\EjemploEscenario\EjemploEscenario\bin\Debug\Mapa2.txt
+E:\c++\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\Escenario2.jpg
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\Escenario1.png
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\Mapa1.txt
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\Mapa2.txt
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\EjemploEscenario.exe
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\bin\Debug\EjemploEscenario.pdb
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.csprojAssemblyReference.cache
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.Form1.resources
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.Properties.Resources.resources
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.csproj.GenerateResource.cache
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.csproj.CoreCompileInputs.cache
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.exe
+D:\Mis Documentos\Materias USFX\COM200 Programacion Avanzada\EjemploEscenario\EjemploEscenario\obj\x86\Debug\EjemploEscenario.pdb
